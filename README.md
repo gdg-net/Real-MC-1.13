@@ -1,5 +1,11 @@
-# Eaglercraft 1.12
+# Minecraft 1,13
 
-Made by [Peytonplayz595](https://github.com/PeytonPlayz595) and myself.
+Made by JJMax1
 
-WASM version available at https://catfoolyou.github.io/EagsWebTest/wasm
+1.14.2 project maker idk why but never will be done
+HUGE I AM MAKING REAL MINECRAFT IN A BROWSER BEDROCK PLAYERS AND JAVA PLAYERS CAN SIGN IN AND PLAY THIS
+DONE IN 2030 rough
+
+
+
+(Starting with 1.12.2 eagler and making it)
